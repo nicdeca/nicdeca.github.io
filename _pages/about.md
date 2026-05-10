@@ -1,8 +1,10 @@
 ---
 layout: about
-title: Nicola De Carli
+title: Home
 permalink: /
 subtitle: Postdoctoral Researcher at KTH Royal Institute of Technology
+nav: true
+nav_order: 1
 
 profile:
   align: right
@@ -28,12 +30,12 @@ latest_posts:
 
 
 Postdoctoral Researcher
-Division of Decision and Control Systems
+Department of Decision and Control Systems
 KTH Royal Institute of Technology, Stockholm, Sweden
 
 I am a postdoctoral researcher working at the intersection of control theory,
 robotics, and decision-making under uncertainty. My research focuses on
-active perception, multi-robot systems, formal methods, and safety-critical
+multi-robot systems, formal methods, observer design, active perception and safety-critical
 control, with applications in cooperative manipulation, aerial robotics, and
 underwater robotics.
 
