@@ -8,7 +8,10 @@
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  backdrop-filter: blur(8px);
+  opacity: 0.98;
+  padding-bottom: 0.7rem;
+  padding-top: 0.7rem;
 }
 
 .navbar .dropdown-menu,
@@ -57,20 +60,49 @@
 
   .navbar-brand {
     color: var(--global-text-color);
+    font-weight: 600;
+    letter-spacing: 0.02em;
   }
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    font-size: 0.84rem;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    margin-left: 0.4rem;
+    position: relative;
+    text-transform: uppercase;
+
+    &::after {
+      background: var(--global-theme-color);
+      content: "";
+      height: 2px;
+      left: 0.45rem;
+      position: absolute;
+      right: 0.45rem;
+      top: calc(100% + 2px);
+      transform: scaleX(0);
+      transform-origin: left center;
+      transition: transform 0.25s ease;
+    }
 
     &:hover {
       color: var(--global-hover-color);
+
+      &::after {
+        transform: scaleX(1);
+      }
     }
   }
 
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
-    font-weight: bolder;
+    font-weight: 700;
     color: var(--global-theme-color);
+
+    &::after {
+      transform: scaleX(1);
+    }
 
     &:hover {
       color: var(--global-hover-color);

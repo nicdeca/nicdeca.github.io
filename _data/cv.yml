@@ -1,189 +1,206 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+  name: Nicola De Carli
+  location: KTH Royal Institute of Technology, Stockholm, Sweden
+  email: ndc@kth.se
+  phone: tel:+39-346-035-88-60
+  # website: https://yourwebsite.com/
+  # social_networks:
+  #   - network: LinkedIn
+  #     username: yourusername
+  #   - network: GitHub
+  #     username: yourusername
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+    research experience:
+      - position: Postdoctoral Researcher with Dimos Dimarogonas
+        company: KTH Royal Institute of Technology, Sweden
+        # location: Stockholm, Sweden
+        start_date: 2025-02
+        end_date: "present"
+      - position: Postdoctoral Researcher with Paolo Robuffo Giordano, Marco Tognon
+        company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
+        # location: Rennes, France
+        start_date: 2024-05
+        end_date: 2025-01
+      - position: Visiting Ph.D. Student
+        company: Centro Piaggio, University of Pisa, Italy
+        start_date: 2022-06
+        end_date: 2022-12
+      - company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
+        position: Ph.D. Student
+        # location: Rennes, France
+        start_date: 2021-01
+        end_date: 2024-04
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+          - "Title of the thesis: Active Perception and Localization for Multi-Robot Systems"
+          - "Keywords: Multi-Robot Systems, Active Perception, Localization, Constrained Control"
+          - "Time for the preparation of the thesis: 3 years and 4 months (01 January 2021 - 17 April 2024)"
+          - "Supervisors: Paolo Robuffo Giordano, Paolo Salaris"
+          - "Jury: Dimos Dimarogonas, Eduardo Montijano, Isabelle Fantoni, Fabio Morbidi"
+    education:
+      - institution: IRISA-CNRS, Université de Rennes
+        area: Automation, Production and Robotics Engineering
+        degree: Ph.D.
+        start_date: 2021-01
+        end_date: 2024-04
         highlights:
-          - Description 1.
-          - Description 2.
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+          - "Title of the thesis: Active Perception and Localization for Multi-Robot Systems"
+      - institution: Ecole centrale de Nantes
+        area: Robotics Engineering
+        degree: MS-Erasmus
+        start_date: 2019-09
+        end_date: 2020-08
+      - institution: Università degli Studi di Genova
+        area: Robotics Engineering
+        degree: MS
+        start_date: 2018-09
+        end_date: 2020-10
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          - "Title of the thesis: Formation Maintenance of Quadrotor Swarms Using Second Order Visual Control"
+      - institution: Università degli Studi di Genova
+        area: Electronics and Communication Engineering
+        degree: BS
+        start_date: 2015-09
+        end_date: 2018-10
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+          - "Title of the thesis: Implementation of Computer Vision Algorithms on Embedded Systems"
+    student supervision:
+      - position: Supervisor
+        company: KTH Royal Institute of Technology, Sweden
+        start_date: 2026-01
+        end_date: 2026-06
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+          - "Héctor Adriel Sanvicente Solís, Master Thesis student on \"Underwater Game-Theoretic Attacker-Defender\" "
+          - "Co-supervised with Emilio Benenati"
+      - position: Supervisor
+        company: KTH Royal Institute of Technology, Sweden
+        start_date: 2026-01
+        end_date: 2026-06
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+          - "João Miguel Gonçalves Zenário, Master Thesis student on \"Underwater Formation Control With Safety and Visibility Constraints via Adaptive Barrier Lyapunov Functions\" "
+          - "Co-supervised with Victor Nan Fernandez-Ayala"
+      - position: Co-supervisor
+        company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
+        start_date: 2025-02
+        end_date: "present"
+        highlights:
+          - "Valeria Braglia, Ph.D. Thesis student on \"Perception-Aware Cooperative Cable Suspended Transportation\" "
+          - "Co-supervised with Marco Tognon and Paolo Robuffo Giordano"
+      - position: Co-supervisor
+        company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
+        start_date: 2024-09
+        end_date: "present"
+        highlights:
+          - "Paul Mefflet, Ph.D. Thesis student on \"Shared Telemanipulation\" "
+          - "Co-supervised with Marco Ferro, Claudio Pacchierotti, Marco Aggaravi and Paolo Robuffo Giordano"
+      - position: Co-supervisor
+        company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
+        start_date: 2023-09
+        end_date: 2024-02
+        highlights:
+          - "Riccardo Belletti, Master Thesis student on \"Distributed NMPC-based Full-Pose Control of a Cable Suspended Load Using Multiple UAVs\" "
+          - "Co-supervised with Marco Tognon"
+      - position: Co-supervisor
+        company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
+        start_date: 2024-02
+        end_date: 2024-07
+        highlights:
+          - "Emanuele Buzzurro, Master Thesis student on \"Distributed NMPC-based Full-Pose Control of a Cable Suspended Load Using Multiple UAVs\" "
+          - "Co-supervised with Marco Tognon and Esteban Restrepo"
+      - position: Co-supervisor
+        company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
+        start_date: 2024-03
+        end_date: 2024-08
+        highlights:
+          - "Valeria Braglia, Master Thesis student on \"Perception-Aware Cooperative Cable Suspended Transportation\" "
+          - "Co-supervised with Marco Tognon and Esteban Restrepo"
+      - position: Co-supervisor
+        company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
+        start_date: 2023-09
+        end_date: 2024-02
+        highlights:
+          - "Francesca Pagano, visiting Ph.D. student on \"Active Sensing for Source Seeking with Multi-Robot Systems\" "
+          - "Co-supervised with Esteban Restrepo and Paolo Robuffo Giordano"
+      - position: Co-supervisor
+        company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
+        start_date: 2022-09
+        end_date: 2023-02
+        highlights:
+          - "Lorenzo Balandi, Master Thesis student on \"Persistent Monitoring of Multiple Moving Targets Using High Order Control Barrier Functions\" "
+          - "Co-supervised with Paolo Robuffo Giordano"
+    talks:
+      - name: 2025-IEEE Conference on Decision and Control
+        highlights:
+          - "Title: A Distributed Kalman-like Observer with Dynamic Inversion-Based Correction for Multi-Agent Estimation"
+        date: 2025-06
+      - name: 2025-Reglermöte (Swedish Control Conference)
+        highlights:
+          - "Title: A Distributed Kalman-like Observer with Dynamic Inversion-Based Correction for Multi-Agent Estimation"
+        date: 2025-06
+      - name: 2024-IEEE Conference on Decision and Control
+        highlights:
+          - "Title: Adaptive Observer From Body-Frame Relative Position Measurements for Cooperative Localization"
+        date: 2024-12
+      - name: Talk at NYU Tandon School of Engineering
+        highlights:
+          - "Title: Advances in Cooperative Cable-Suspended Transportation: Perception-Aware and Decentralized Control"
+        date: 2024-10
+      - name: Talk at KTH Royal Institute of Technology, Division of Decision and Control Systems
+        highlights:
+          - "Title: Advances in Cooperative Cable-Suspended Transportation: Perception-Aware and Decentralized Control"
+        date: 2024-10
+      - name: 2024-IEEE International Conference on Robotics and Automation
+        highlights:
+          - "Title: Distributed Control Barrier Functions for Global Connectivity Maintenance"
+        date: 2024-05
+      - name: 2023-IEEE International Symposium on Multi-Robot and Multi-Agent Systems
+        highlights:
+          - "Title: Multi-Robot Active Sensing for Bearing Formations"
+        date: 2023-12
+      - name: Journée GT2 UAV GDR in LS2N, Nantes, France 
+        highlights:
+          - "Title: Active Cooperative Localization of Multi-Drone Systems using Distributed Optimization"
+        date: 2022-12
+      - name: MRS Summer School, Prague, Czech Republic 
+        highlights:
+          - "Title: Active Cooperative Localization of Multi-Drone Systems using Distributed Optimization"
+        date: 2022-08
+      - name: Journée GT2 UAV GDR (Online) 
+        highlights:
+          - "Title: Online Decentralized Perception-Aware Path Planning for Multi-Robot Systems"
+        date: 2021-12
+      - name: 2021-IEEE International Symposium on Multi-Robot and Multi-Agent Systems
+        highlights:
+          - "Title: Online Decentralized Perception-Aware Path Planning for Multi-Robot Systems"
+        date: 2021-11
+    other activities:
+      - name: Associate Editor for IEEE International Conference on Intelligent Robots and Systems (IROS) 2025
+      - name: Associate Editor for IEEE International Conference on Intelligent Robots and Systems (IROS) 2026
+    languages:
+      - label: Languages
+        details: English (fluent), French (good), Italian (mother tongue)
+      # languages: English (fluent), French (good), Italian (mother tongue)
+    journal publications:
+      - bullet: De Carli, N., Belletti, R., Buzzurro, E., Testa, A., Notarstefano, G., & Tognon, M. (2025). Distributed NMPC for Cooperative Aerial Manipulation of Cable-Suspended Loads. IEEE Robotics and Automation Letters. [Link](https://hal.science/hal-05239115/document)
+      - bullet: Pagano, F., De Carli, N., Restrepo, E., Marino, A., & Robuffo Giordano, P. (2025). Distributed Multi-robot Active-Sensing of a Diffusive Source. IEEE Robotics and Automation Letters. [Link](https://hal.science/hal-05289886/document)
+      - bullet: De Carli, N., Dimarogonas, D. V. (2025). A Distributed Kalman-like Observer with Dynamic Inversion-Based Correction for Multi-Agent Estimation. IEEE Control Systems Letters. [Link](https://ieeexplore.ieee.org/document/11023519)
+      - bullet: De Carli, N., Restrepo, E., & Robuffo Giordano, P. (2024). Adaptive Observer From Body-Frame Relative Position Measurements for Cooperative Localization. IEEE Control Systems Letters. [Link](https://hal.science/hal-04610053) 
+      - bullet: Balandi, L., De Carli, N., & Robuffo Giordano, P. (2023). Persistent Monitoring of Multiple Moving Targets Using High Order Control Barrier Functions. IEEE Robotics and Automation Letters. [Link](https://hal.science/hal-04175775/) Video [Link](https://www.youtube.com/watch?v=YWKcc8Wcz8g&t=1s)
+    conference publications:
+      - bullet: De Carli, N., Salaris, P., & Robuffo Giordano, P. (2024, May). Distributed Control Barrier Functions for Global Connectivity Maintenance. In ICRA 2024-IEEE International Conf on Robotics and Automation (pp. 1-7). [Link](https://hal.science/hal-04494058) Video [Link](https://www.youtube.com/watch?v=qluJzJEHkWQ&t=7s)
+      - bullet: De Carli, N., Salaris, P., & Robuffo Giordano, P. (2023, December). Multi-Robot Active Sensing for Bearing Formations. In 2023 International Symposium on Multi-Robot and Multi-Agent Systems (MRS) (pp. 184-190). IEEE. [Link](https://hal.science/hal-04216640v2)
+      - bullet: De Carli, N., Salaris, P., & Robuffo Giordano, P. (2021, November). Online Decentralized Perception-Aware Path Planning for Multi-Robot Systems. In MRS 2021-3rd IEEE International Symposium on Multi-Robot and Multi-Agent Systems (pp. 1-9). IEEE. [Link](https://hal.science/hal-03341379/document)
+    under review:
+      - bullet: De Carli, N., Bastianello, N., Dimarogonas, D. V. (2026). ADMM-Based Distributed Kalman-like Observer with Applications to Cooperative Localization. Under review. [Link](https://arxiv.org/pdf/2604.21608)
+    #publications in preparation:
+    thesis:
+      - bullet: De Carli, N. (2024). Active Perception and Localization for Multi-Robot Systems. Ph.D. Thesis, IRISA-CNRS, Université de Rennes, France. [Link](https://drive.google.com/file/d/18M4Z4jzFakzdJVCKXb5Vq90_K9x7ds-X/view?usp=sharing)
+design:
+  theme: moderncv
+  # font_size: 10pt
+  # page_size: letterpaper
+  # color: blue
+  # date_width: 3.8 cm
+  # content_scale: 0.75
+  # show_only_years: false
+  # disable_page_numbers: false
+  
