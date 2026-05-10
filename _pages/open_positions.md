@@ -47,7 +47,7 @@ collaborations, feel free to get in touch.
 					This thesis will experimentally validate open multi-agent coordination
 					strategies on Crazyflie UAVs, bridging the gap between theory and
 					practice in formation control, connectivity maintenance, and safety
-					constraints.
+					constraints when the number of robots is not fixed but changes dynamically.
 				</td>
 			</tr>
 		</tbody>
