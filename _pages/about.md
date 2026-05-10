@@ -15,7 +15,6 @@ profile:
     <p>Stockholm, Sweden</p>
     <p><a href="mailto:ndc@kth.se">ndc@kth.se</a></p>
 
-selected_papers: true
 social: true
 
 announcements:
@@ -31,12 +30,13 @@ latest_posts:
 
 ## About
 
-I am a postdoctoral researcher in the [Department of Decision and Control Systems](https://www.kth.se/is/dcs) at **KTH Royal Institute of Technology**, Stockholm, Sweden, working with Prof. [Dimos Dimarogonas](https://people.kth.se/~dimos/).
-I completed my Ph.D. in the [Rainbow team](https://team.inria.fr/rainbow/fr/) at IRISA-CNRS, Rennes, France, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/) and Prof. [Paolo Salaris](https://www.centropiaggio.unipi.it/~salaris).
+I am a postdoctoral researcher in the [Department of Decision and Control Systems](https://www.kth.se/is/dcs) at **KTH Royal Institute of Technology**, Stockholm, Sweden, where I work with Prof. [Dimos Dimarogonas](https://people.kth.se/~dimos/).
+Before joining KTH, I was a postdoctoral researcher in the [Rainbow team](https://team.inria.fr/rainbow/fr/) at IRISA-CNRS, Rennes, France, from April 2024 to January 2025, where I worked with Dr. [Marco Tognon](https://marco-tognon-robotics.com/) and Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/). 
+I received my Ph.D. from IRISA-CNRS as part of the Rainbow team, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/) and Prof. [Paolo Salaris](https://www.centropiaggio.unipi.it/~salaris).
 
-My research lies at the intersection of **control theory** and **robotics**. I am particularly interested in developing principled methods for autonomous systems that can perceive, reason, and act safely in complex environments.
+My research lies at the intersection of **control theory** and **robotics**. I am particularly interested in developing principled methods for autonomous systems that can perceive, reason, and act safely in unstructured environments.
 
-My current research focuses on **multi-robot systems**, **distributed observer design**, **active perception**, **formal methods**, and **safety-critical control**, with applications in cooperative manipulation, aerial robotics, and underwater robotics.
+More specifically, I work on **multi-robot systems**, **distributed observer design**, **active perception**, **formal methods**, and **safety-critical control**. My research is motivated by applications in aerial robotics, underwater robotics and cooperative transportation.
 
 
 ## Research Interests

@@ -31,10 +31,11 @@ Here is a short web version of my CV. For the complete version, see [CV (PDF)](/
 
 ## Student Supervision
 
+- Federico Calzoni, Master thesis student, IRISA (Feb. 2026 - Aug. 2026)
 - Hector Adriel Sanvicente Solis, Master thesis student, KTH (Jan. 2026 - Jun. 2026)
 - Joao Miguel Goncalves Zenario, Master thesis student, KTH (Jan. 2026 - Jun. 2026)
 - Valeria Braglia, Ph.D. student, IRISA (Feb. 2025 - Present)
-- Paul Mefflet, Ph.D. student, IRISA (Sep. 2024 - Present)
+- Paul Mefflet, Ph.D. student, IRISA (Sep. 2024 - Jan 2025)
 - Riccardo Belletti, Master thesis student, IRISA (Sep. 2023 - Feb. 2024)
 - Emanuele Buzzurro, Master thesis student, IRISA (Feb. 2024 - Jul. 2024)
 - Valeria Braglia, Master thesis student, IRISA (Mar. 2024 - Aug. 2024)
