@@ -490,7 +490,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/nicola-de-carli", "_blank");
+          window.open("https://www.linkedin.com/in/nicola-de-carli-674776194", "_blank");
         },
       },{
       id: 'light-theme',
