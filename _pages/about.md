@@ -13,6 +13,7 @@ profile:
     <p>Department of Decision and Control Systems</p>
     <p>KTH Royal Institute of Technology</p>
     <p>Stockholm, Sweden</p>
+    <p><a href="mailto:ndc@kth.se">ndc@kth.se</a></p>
 
 selected_papers: true
 social: true
@@ -30,20 +31,20 @@ latest_posts:
 
 ## About
 
-I am a postdoctoral researcher in the [Department of Decision and Control Systems](https://www.kth.se/is/dcs) at **KTH Royal Institute of Technology**, Stockholm, Sweden, working with Prof. [Dimos Dimarogonas](https://people.kth.se/~dimos/) 
+I am a postdoctoral researcher in the [Department of Decision and Control Systems](https://www.kth.se/is/dcs) at **KTH Royal Institute of Technology**, Stockholm, Sweden, working with Prof. [Dimos Dimarogonas](https://people.kth.se/~dimos/).
+I completed my Ph.D. in the [Rainbow team](https://team.inria.fr/rainbow/fr/) at IRISA-CNRS, Rennes, France, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/fr/team/prg/) and Prof. [Paolo Salaris](https://www.centropiaggio.unipi.it/~salaris).
 
-My research lies at the intersection of **control theory**, **robotics**, and **decision-making under uncertainty**. I am particularly interested in developing principled methods for autonomous systems that can perceive, reason, and act safely in complex environments.
+My research lies at the intersection of **control theory** and **robotics**. I am particularly interested in developing principled methods for autonomous systems that can perceive, reason, and act safely in complex environments.
 
-My current research focuses on **multi-robot systems**, **active perception**, **formal methods**, **observer design**, and **safety-critical control**, with applications in cooperative manipulation, aerial robotics, and underwater robotics.
+My current research focuses on **multi-robot systems**, **distributed observer design**, **active perception**, **formal methods**, and **safety-critical control**, with applications in cooperative manipulation, aerial robotics, and underwater robotics.
 
-I am also interested in model predictive control, Signal Temporal Logic, risk-aware planning, and learning-based methods for robotic systems.
 
 ## Research Interests
 
-- Active perception
 - Multi-robot systems
-- Model predictive control
+- Observer design
 - Signal Temporal Logic
 - Safety-critical robotics
+- Active perception
+- Model predictive control
 - Cooperative manipulation
-- Observer design
