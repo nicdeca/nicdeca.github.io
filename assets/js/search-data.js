@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-will-attend-the-ieee-international-conference-on-robotics-and-automation-icra-where-i-will-present-our-paper-distributed-nmpc-for-cooperative-aerial-manipulation-of-cable-suspended-loads-i-am-also-happy-that-two-additional-works-that-i-co-authored-will-be-presented-by-my-co-authors-distributed-multi-robot-active-sensing-of-a-diffusive-source-validation-of-space-robotics-in-underwater-environments-via-disturbance-robustness-equivalency",
+          title: 'I will attend the IEEE International Conference on Robotics and Automation (ICRA), where...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
