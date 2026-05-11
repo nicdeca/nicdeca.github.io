@@ -25,7 +25,7 @@ collaborations, feel free to get in touch.
 				<td style="width: 180px;">
 					<a href="{{ '/assets/pdf/Thesis_proposal_Open_Multi_Robot_Systems.pdf' | relative_url }}">
 						<img
-							src="{{ '/assets/img/open_positions_thesis_proposal.png' | relative_url }}"
+							src="{{ '/assets/img/crazyflies.png' | relative_url }}"
 							alt="Thumbnail for the thesis proposal Experimental Implementation of Open Multi-Agent Systems with Crazyflie UAVs"
 							class="img-fluid rounded"
 							loading="lazy"
