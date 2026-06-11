@@ -3,6 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: # the website title (if blank, full name will be used instead)
+seo_title: Nicola De Carli | Robotics and Control Researcher # used only for search engine title tag
 first_name: Nicola
 middle_name:
 last_name: De Carli
