@@ -69,63 +69,63 @@ cv:
         start_date: 2026-01
         end_date: 2026-06
         highlights:
-          - "Héctor Adriel Sanvicente Solís, Master Thesis student on \"Underwater Game-Theoretic Attacker-Defender\" "
+          - 'Héctor Adriel Sanvicente Solís, Master Thesis student on "Underwater Game-Theoretic Attacker-Defender" '
           - "Co-supervised with Emilio Benenati"
       - position: Supervisor
         company: KTH Royal Institute of Technology, Sweden
         start_date: 2026-01
         end_date: 2026-06
         highlights:
-          - "João Miguel Gonçalves Zenário, Master Thesis student on \"Underwater Formation Control With Safety and Visibility Constraints via Adaptive Barrier Lyapunov Functions\" "
+          - 'João Miguel Gonçalves Zenário, Master Thesis student on "Underwater Formation Control With Safety and Visibility Constraints via Adaptive Barrier Lyapunov Functions" '
           - "Co-supervised with Victor Nan Fernandez-Ayala"
       - position: Co-supervisor
         company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
         start_date: 2025-02
         end_date: "present"
         highlights:
-          - "Valeria Braglia, Ph.D. Thesis student on \"Perception-Aware Cooperative Cable Suspended Transportation\" "
+          - 'Valeria Braglia, Ph.D. Thesis student on "Perception-Aware Cooperative Cable Suspended Transportation" '
           - "Co-supervised with Marco Tognon and Paolo Robuffo Giordano"
       - position: Co-supervisor
         company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
         start_date: 2024-09
         end_date: "present"
         highlights:
-          - "Paul Mefflet, Ph.D. Thesis student on \"Shared Telemanipulation\" "
+          - 'Paul Mefflet, Ph.D. Thesis student on "Shared Telemanipulation" '
           - "Co-supervised with Marco Ferro, Claudio Pacchierotti, Marco Aggaravi and Paolo Robuffo Giordano"
       - position: Co-supervisor
         company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
         start_date: 2023-09
         end_date: 2024-02
         highlights:
-          - "Riccardo Belletti, Master Thesis student on \"Distributed NMPC-based Full-Pose Control of a Cable Suspended Load Using Multiple UAVs\" "
+          - 'Riccardo Belletti, Master Thesis student on "Distributed NMPC-based Full-Pose Control of a Cable Suspended Load Using Multiple UAVs" '
           - "Co-supervised with Marco Tognon"
       - position: Co-supervisor
         company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
         start_date: 2024-02
         end_date: 2024-07
         highlights:
-          - "Emanuele Buzzurro, Master Thesis student on \"Distributed NMPC-based Full-Pose Control of a Cable Suspended Load Using Multiple UAVs\" "
+          - 'Emanuele Buzzurro, Master Thesis student on "Distributed NMPC-based Full-Pose Control of a Cable Suspended Load Using Multiple UAVs" '
           - "Co-supervised with Marco Tognon and Esteban Restrepo"
       - position: Co-supervisor
         company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
         start_date: 2024-03
         end_date: 2024-08
         highlights:
-          - "Valeria Braglia, Master Thesis student on \"Perception-Aware Cooperative Cable Suspended Transportation\" "
+          - 'Valeria Braglia, Master Thesis student on "Perception-Aware Cooperative Cable Suspended Transportation" '
           - "Co-supervised with Marco Tognon and Esteban Restrepo"
       - position: Co-supervisor
         company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
         start_date: 2023-09
         end_date: 2024-02
         highlights:
-          - "Francesca Pagano, visiting Ph.D. student on \"Active Sensing for Source Seeking with Multi-Robot Systems\" "
+          - 'Francesca Pagano, visiting Ph.D. student on "Active Sensing for Source Seeking with Multi-Robot Systems" '
           - "Co-supervised with Esteban Restrepo and Paolo Robuffo Giordano"
       - position: Co-supervisor
         company: IRISA - CNRS, INRIA Rennes - Bretagne Atlantique, France
         start_date: 2022-09
         end_date: 2023-02
         highlights:
-          - "Lorenzo Balandi, Master Thesis student on \"Persistent Monitoring of Multiple Moving Targets Using High Order Control Barrier Functions\" "
+          - 'Lorenzo Balandi, Master Thesis student on "Persistent Monitoring of Multiple Moving Targets Using High Order Control Barrier Functions" '
           - "Co-supervised with Paolo Robuffo Giordano"
     talks:
       - name: 2025-IEEE Conference on Decision and Control
@@ -156,15 +156,15 @@ cv:
         highlights:
           - "Title: Multi-Robot Active Sensing for Bearing Formations"
         date: 2023-12
-      - name: Journée GT2 UAV GDR in LS2N, Nantes, France 
+      - name: Journée GT2 UAV GDR in LS2N, Nantes, France
         highlights:
           - "Title: Active Cooperative Localization of Multi-Drone Systems using Distributed Optimization"
         date: 2022-12
-      - name: MRS Summer School, Prague, Czech Republic 
+      - name: MRS Summer School, Prague, Czech Republic
         highlights:
           - "Title: Active Cooperative Localization of Multi-Drone Systems using Distributed Optimization"
         date: 2022-08
-      - name: Journée GT2 UAV GDR (Online) 
+      - name: Journée GT2 UAV GDR (Online)
         highlights:
           - "Title: Online Decentralized Perception-Aware Path Planning for Multi-Robot Systems"
         date: 2021-12
@@ -183,7 +183,7 @@ cv:
       - bullet: De Carli, N., Belletti, R., Buzzurro, E., Testa, A., Notarstefano, G., & Tognon, M. (2025). Distributed NMPC for Cooperative Aerial Manipulation of Cable-Suspended Loads. IEEE Robotics and Automation Letters. [Link](https://hal.science/hal-05239115/document)
       - bullet: Pagano, F., De Carli, N., Restrepo, E., Marino, A., & Robuffo Giordano, P. (2025). Distributed Multi-robot Active-Sensing of a Diffusive Source. IEEE Robotics and Automation Letters. [Link](https://hal.science/hal-05289886/document)
       - bullet: De Carli, N., Dimarogonas, D. V. (2025). A Distributed Kalman-like Observer with Dynamic Inversion-Based Correction for Multi-Agent Estimation. IEEE Control Systems Letters. [Link](https://ieeexplore.ieee.org/document/11023519)
-      - bullet: De Carli, N., Restrepo, E., & Robuffo Giordano, P. (2024). Adaptive Observer From Body-Frame Relative Position Measurements for Cooperative Localization. IEEE Control Systems Letters. [Link](https://hal.science/hal-04610053) 
+      - bullet: De Carli, N., Restrepo, E., & Robuffo Giordano, P. (2024). Adaptive Observer From Body-Frame Relative Position Measurements for Cooperative Localization. IEEE Control Systems Letters. [Link](https://hal.science/hal-04610053)
       - bullet: Balandi, L., De Carli, N., & Robuffo Giordano, P. (2023). Persistent Monitoring of Multiple Moving Targets Using High Order Control Barrier Functions. IEEE Robotics and Automation Letters. [Link](https://hal.science/hal-04175775/) Video [Link](https://www.youtube.com/watch?v=YWKcc8Wcz8g&t=1s)
     conference publications:
       - bullet: De Carli, N., Salaris, P., & Robuffo Giordano, P. (2024, May). Distributed Control Barrier Functions for Global Connectivity Maintenance. In ICRA 2024-IEEE International Conf on Robotics and Automation (pp. 1-7). [Link](https://hal.science/hal-04494058) Video [Link](https://www.youtube.com/watch?v=qluJzJEHkWQ&t=7s)
@@ -203,4 +203,3 @@ design:
   # content_scale: 0.75
   # show_only_years: false
   # disable_page_numbers: false
-  

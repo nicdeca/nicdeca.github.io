@@ -4,8 +4,15 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
-      {% if site.title == 'blank' or site.title == nil or site.title == '' %}
-        {% assign full_name = site.first_name | append: ' ' | append: site.middle_name | append: ' ' | append: site.last_name | replace: '  ', ' ' | strip %}
+      {% if site.title == 'blank' or site.title == null or site.title == '' %}
+        {% assign full_name = site.first_name
+          | append: ' '
+          | append: site.middle_name
+          | append: ' '
+          | append: site.last_name
+          | replace: '  ', ' '
+          | strip
+        %}
         <span class="font-weight-bold">{{ full_name }}</span>
       {% else %}
         {{ site.title }}
