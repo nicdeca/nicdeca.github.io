@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-07-01'
 papers:
   UqoXixwAAAAJ:2osOgNQ5qMEC:
-    citations: 11
+    citations: 12
     title: Multi-robot active sensing for bearing formations
     year: '2023'
   UqoXixwAAAAJ:9yKSN-GCB0IC:
-    citations: 9
+    citations: 10
     title: Persistent monitoring of multiple moving targets using high order control barrier functions
     year: '2023'
   UqoXixwAAAAJ:IjCSPb-OGe4C:
@@ -14,11 +14,11 @@ papers:
     title: A Distributed Kalman-like Observer with Dynamic Inversion-Based Correction for Multi-Agent Estimation
     year: '2025'
   UqoXixwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 3
     title: Distributed Multi-Robot Active-Sensing of a Diffusive Source
     year: '2025'
   UqoXixwAAAAJ:UeHWp8X0CEIC:
-    citations: 20
+    citations: 21
     title: Distributed control barrier functions for global connectivity maintenance
     year: '2024'
   UqoXixwAAAAJ:W7OEmFMy1HYC:
@@ -46,6 +46,6 @@ papers:
     title: Adaptive observer from body-frame relative position measurements for cooperative localization
     year: '2024'
   UqoXixwAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: Distributed NMPC for Cooperative Aerial Manipulation of Cable-Suspended Loads
     year: '2025'
