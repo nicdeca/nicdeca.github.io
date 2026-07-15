@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-15'
 papers:
   UqoXixwAAAAJ:2osOgNQ5qMEC:
-    citations: 12
+    citations: 13
     title: Multi-robot active sensing for bearing formations
     year: '2023'
   UqoXixwAAAAJ:9yKSN-GCB0IC:
@@ -18,7 +18,7 @@ papers:
     title: Distributed Multi-Robot Active-Sensing of a Diffusive Source
     year: '2025'
   UqoXixwAAAAJ:UeHWp8X0CEIC:
-    citations: 21
+    citations: 22
     title: Distributed control barrier functions for global connectivity maintenance
     year: '2024'
   UqoXixwAAAAJ:W7OEmFMy1HYC:
@@ -37,15 +37,19 @@ papers:
     citations: 12
     title: Online decentralized perception-aware path planning for multi-robot systems
     year: '2021'
+  UqoXixwAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: Perception-Aware Control for Cooperative Cable-Suspended Transportation Under Sensing Constraints
+    year: '2026'
   UqoXixwAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: Active perception and localization for multi-robot systems
     year: '2024'
   UqoXixwAAAAJ:u-x6o8ySG0sC:
-    citations: 4
+    citations: 5
     title: Adaptive observer from body-frame relative position measurements for cooperative localization
     year: '2024'
   UqoXixwAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 7
     title: Distributed NMPC for Cooperative Aerial Manipulation of Cable-Suspended Loads
     year: '2025'
