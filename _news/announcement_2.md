@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-06-17
-date_display: Jun 2026
+date_display: June 2026
 inline: true
 related_posts: false
 ---
