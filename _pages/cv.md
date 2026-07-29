@@ -43,6 +43,7 @@ Here is a short web version of my CV. For the complete version, see [CV (PDF)](/
 
 ## Editorial Service
 
+- Associate Editor, IEEE/Robotics and Automation Letters (RAL) 2026
 - Associate Editor, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026
 - Associate Editor, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
 
