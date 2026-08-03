@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-03'
 papers:
   UqoXixwAAAAJ:2osOgNQ5qMEC:
     citations: 13
@@ -11,11 +11,11 @@ papers:
     year: '2023'
   UqoXixwAAAAJ:IjCSPb-OGe4C:
     citations: 1
-    title: A Distributed Kalman-like Observer with Dynamic Inversion-Based Correction for Multi-Agent Estimation
+    title: A Distributed Kalman-Like Observer With Dynamic Inversion-Based Correction for Multi-Agent Estimation
     year: '2025'
   UqoXixwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
-    title: Distributed Multi-Robot Active-Sensing of a Diffusive Source
+    citations: 4
+    title: Distributed multi-robot active-sensing of a diffusive source
     year: '2025'
   UqoXixwAAAAJ:UeHWp8X0CEIC:
     citations: 24
@@ -24,6 +24,10 @@ papers:
   UqoXixwAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: Validation of Space Robotics in Underwater Environments via Disturbance Robustness Equivalency
+    year: '2026'
+  UqoXixwAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: 'STL-GCS: A Planner-Controller Framework for Signal Temporal Logic via Graphs of Time-varying Convex Sets'
     year: '2026'
   UqoXixwAAAAJ:Y0pCki6q_DkC:
     citations: 1
@@ -51,5 +55,5 @@ papers:
     year: '2024'
   UqoXixwAAAAJ:zYLM7Y9cAGgC:
     citations: 7
-    title: Distributed NMPC for Cooperative Aerial Manipulation of Cable-Suspended Loads
+    title: Distributed NMPC for cooperative aerial manipulation of cable-suspended loads
     year: '2025'
