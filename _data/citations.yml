@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-10'
 papers:
   UqoXixwAAAAJ:2osOgNQ5qMEC:
     citations: 13
     title: Multi-robot active sensing for bearing formations
     year: '2023'
   UqoXixwAAAAJ:9yKSN-GCB0IC:
-    citations: 10
+    citations: 11
     title: Persistent monitoring of multiple moving targets using high order control barrier functions
     year: '2023'
   UqoXixwAAAAJ:IjCSPb-OGe4C:
@@ -54,6 +54,6 @@ papers:
     title: Adaptive observer from body-frame relative position measurements for cooperative localization
     year: '2024'
   UqoXixwAAAAJ:zYLM7Y9cAGgC:
-    citations: 7
+    citations: 8
     title: Distributed NMPC for cooperative aerial manipulation of cable-suspended loads
     year: '2025'
