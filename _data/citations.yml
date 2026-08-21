@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-21'
 papers:
   UqoXixwAAAAJ:2osOgNQ5qMEC:
     citations: 13
     title: Multi-robot active sensing for bearing formations
     year: '2023'
   UqoXixwAAAAJ:9yKSN-GCB0IC:
-    citations: 11
+    citations: 12
     title: Persistent monitoring of multiple moving targets using high order control barrier functions
     year: '2023'
   UqoXixwAAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: Distributed multi-robot active-sensing of a diffusive source
     year: '2025'
   UqoXixwAAAAJ:UeHWp8X0CEIC:
-    citations: 24
+    citations: 25
     title: Distributed control barrier functions for global connectivity maintenance
     year: '2024'
   UqoXixwAAAAJ:W7OEmFMy1HYC:
@@ -53,6 +53,10 @@ papers:
     citations: 5
     title: Adaptive observer from body-frame relative position measurements for cooperative localization
     year: '2024'
+  UqoXixwAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: Demonstration of Space Robot Teleoperation over a Lossy and Delayed Network using ATMOS
+    year: '2026'
   UqoXixwAAAAJ:zYLM7Y9cAGgC:
     citations: 8
     title: Distributed NMPC for cooperative aerial manipulation of cable-suspended loads
