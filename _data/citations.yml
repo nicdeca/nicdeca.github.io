@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-24'
 papers:
   UqoXixwAAAAJ:2osOgNQ5qMEC:
     citations: 13
@@ -18,7 +18,7 @@ papers:
     title: Distributed multi-robot active-sensing of a diffusive source
     year: '2025'
   UqoXixwAAAAJ:UeHWp8X0CEIC:
-    citations: 25
+    citations: 26
     title: Distributed control barrier functions for global connectivity maintenance
     year: '2024'
   UqoXixwAAAAJ:W7OEmFMy1HYC:
